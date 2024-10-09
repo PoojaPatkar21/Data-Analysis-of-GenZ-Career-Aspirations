@@ -1,0 +1,6 @@
+Link to Data:
+https://docs.google.com/spreadsheets/d/1QrGs3rT9RwmBP46hZgfVvScUFPWN3wMCFWiRRmWY3cE/edit?usp=drive_link
+
+The project titled "Career Aspirations of Gen Z" focuses on understanding the evolving career preferences and aspirations of the new generation entering the workforce. Data collection was performed using online survey forms, targeting a broad segment of Gen Z individuals. The project involved several stages, beginning with data preprocessing to ensure the dataset's quality and integrity, followed by data analysis using Excel and SQL to extract meaningful insights. Advanced Excel functionalities such as Power Pivot and Power Query were leveraged for efficient data manipulation and transformation.
+
+Furthermore, the project included the creation of comprehensive data visualizations, which were used to build intuitive dashboards. These dashboards enable stakeholders to explore various dimensions of Gen Z’s career aspirations, preferences for job mobility, and factors influencing their career choices. The visual representation of data helps in identifying trends and drawing actionable insights that can aid employers in aligning their recruitment and retention strategies with the expectations of the Gen Z workforce.
