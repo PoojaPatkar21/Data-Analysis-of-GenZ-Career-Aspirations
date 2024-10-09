@@ -9,7 +9,7 @@ The project titled "Career Aspirations of Gen Z" explores the dynamic career pre
 
 To enhance data handling and reporting efficiency, advanced Excel tools such as Power Pivot and Power Query were utilized. The data analysis culminated in the creation of a main dashboard and three functional dashboards, designed to provide an interactive and comprehensive view of the key trends. These dashboards visually represent various aspects of Gen Z’s career aspirations, job mobility preferences, and the factors influencing their career decisions. The project’s visualizations offer valuable insights that can guide employers in adapting their recruitment and retention strategies to meet the evolving needs of the Gen Z workforce.
 
-# Business Questions For Data Abalysis in Excel and SQL
+# Business Questions For Data Analysis in Excel and SQL
 Business Questions for data analysis in Excel
 
 1. What is the gender distribution of respondents from India?
